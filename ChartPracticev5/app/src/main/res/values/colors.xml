@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cardDarkText">#252c38</color>
+    <color name="fabcolornormal">#e91e63</color>
+    <color name="fabcolorpressed">#ec407a</color>
+    <color name="mainfabcolornormal">#fafafa</color>
+    <color name="mainfabcolorpressed">#f1f1</color>
+    <color name="mainfabplusicon">#808080</color>
+</resources>
